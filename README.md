@@ -7,7 +7,7 @@
 * 🧠 Active Directory Attacks & Red Teaming (CRTP, CRTO certified)
 * 💻 Source Code Review (Python, Java)
 * ☁️ Cloud Security & Forensics (Learning AWS + OSCP track)
-* 🎯 50+ Hall of Fame mentions (Sony, Yahoo, BBC, UN, LG, etc.)
+* 🎯 50+ Hall of Fame mentions (Apple, Sony, Yahoo, BBC, UN, LG, etc.)
 
 🛠️ Tools I frequently work with:
 `BurpSuite` | `Frida` | `Objection` | `Nmap` | `Amass` | `SQLMap` | `BloodHound` | `Impacket` | `Metasploit`
